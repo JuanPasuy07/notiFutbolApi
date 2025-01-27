@@ -1,37 +1,47 @@
 [
   {
-    "id": 11,
-    "title": "MUNDIAL DE CLUBES",
-    "description": "Sorteo Mundial de Clubes de fútbol, en directo: el minuto a minuto de los bombos, en vivo",
+    "winery": "11",
+    "wine": "MUNDIAL DE CLUBES",
+    "rating": "Sorteo Mundial de Clubes de fútbol, en directo: el minuto a minuto de los bombos, en vivo",
+    "location": "LA CASA BLANCA",
     "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/11/14/67362839481f8.png",
-    "link": "https://www.futbolred.com/futbol-colombiano/liga-betplay/video-carlos-bacca-destaca-a-junior-critica-a-hinchas-que-no-apoyan-y-pide-clasificar-sin-angustia-230237"
+    "id": 1,
+    "isFavorite": false
   },
   {
-    "id": 12,
-    "title": "COPA DEL REY",
-    "description": "Cacereño - Atlético de Madrid, en directo | Sigue el partido de la Copa del Rey, hoy en vivo",
-    "image": "https://www.futbolred.com/files/article_main/uploads/2024/11/26/67466a04174b6.jpeg",
-    "link": "https://www.futbolred.com/futbol-colombiano/liga-betplay/ivan-mejia-vuelve-a-apuntar-a-tulio-gomez-por-fracaso-de-america-en-cuadrangulares-230239"
+    "winery": "11",
+    "wine": "MUNDIAL DE CLUBES",
+    "rating": "Sorteo Mundial de Clubes de fútbol, en directo: el minuto a minuto de los bombos, en vivo",
+    "location": "LA CASA BLANCA",
+    "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/11/14/67362839481f8.png",
+    "id": 2,
+    "isFavorite": false
   },
   {
-    "id": 13,
-    "title": "FÚTBOL INTERNACIONAL",
-    "description": "Alphonso Davies, cada vez más cerca de la renovación",
-    "image": "https://www.futbolred.com/files/article_main/files/crop/uploads/2024/09/08/66de00e488cf7.r_1733398932349.0-116-1024-628.png",
-    "link": "https://www.futbolred.com/futbol-colombiano/liga-betplay/dayro-moreno-y-radamel-falcao-en-disputa-por-maximo-goleador-del-futbol-colombiano-asi-va-la-tabla-230165"
-  },
-{
-    "id": 14,
-    "title": "COPA DEL REY",
-    "description": "Se confirma el regreso de Le Normand con la unidad B del Atlético ante el Cacereño",
-    "image": "https://images.ole.com.ar/2022/07/17/nkNdpl4O6_1256x620__1.jpg",
-    "link": "https://twitter.com/i/status/1864497675879501972"
+    "winery": "11",
+    "wine": "MUNDIAL DE CLUBES",
+    "rating": "Sorteo Mundial de Clubes de fútbol, en directo: el minuto a minuto de los bombos, en vivo",
+    "location": "LA CASA VERDE",
+    "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/11/14/67362839481f8.png",
+    "id": 3,
+    "isFavorite": false
   },
   {
-    "id": 15,
-    "title": "Sorpresa da la vida: inesperado equipo que más juega en cuadrangulares",
-    "description": "Equipos que sorprenden, como Once Caldas, y otros que decepcionan, como Independiente Santa Fe, le han puesto picante a esta definición del título de Navidad, que para muchos hinchas tiene un sabor muy especial.En medio de todas las mediciones que se hacen a esta altura, hay una que llama la atención especialmente y que es motivo de orgullo para los que encabezan la tabla: el tiempo efectivo de juego.",
-    "image": "https://www.futbolred.com/files/article_main/uploads/2024/11/28/67487b3be7d09.jpeg",
-    "link": "https://www.futbolred.com/futbol-colombiano/liga-betplay/deportes-tolima-es-el-equipo-con-mas-juego-efectivo-en-cuadrangulares-atletico-nacional-colero-230159"
-  }
+    "winery": "11",
+    "wine": "MUNDIAL DE CLUBES",
+    "rating": "Sorteo Mundial de Clubes de fútbol, en directo: el minuto a minuto de los bombos, en vivo",
+    "location": "LA CASA NARANJA",
+    "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/11/14/67362839481f8.png",
+    "id": 4,
+    "isFavorite": false
+  },
+  {
+    "winery": "11",
+    "wine": "MUNDIAL DE CLUBES",
+    "rating": "Sorteo Mundial de Clubes de fútbol, en directo: el minuto a minuto de los bombos, en vivo",
+    "location": "LA CASA MORADA",
+    "image": "https://www.mundodeportivo.com/files/image_948_465/uploads/2024/11/14/67362839481f8.png",
+    "id": 5,
+    "isFavorite": false
+  },
 ]
